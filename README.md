@@ -40,6 +40,6 @@ Soy una apasionada desarrolladora full-stack con experiencia en la creación de 
     <img src="https://img.shields.io/badge/LinkedIn-ivethb-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:tuemail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-tuemail@example.com-red?style=flat&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/iviapps.content@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
