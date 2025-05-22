@@ -46,7 +46,6 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 + ![WP Rocket](https://img.shields.io/badge/WP%20Rocket-F15A24?style=for-the-badge&logo=wordpress&logoColor=white)
 + ![WP Mail SMTP](https://img.shields.io/badge/WP%20Mail%20SMTP-FF7139?style=for-the-badge&logo=gmail&logoColor=white)
 + ![CPT UI](https://img.shields.io/badge/Custom%20Post%20Type%20UI-1E8CBE?style=for-the-badge&logo=wordpress&logoColor=white)
-+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 + ![WP Dev Plugin](https://img.shields.io/badge/WordPress%20Plugin%20Dev-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
@@ -76,15 +75,33 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-#### 🧪 Otras herramientas
+
+### 🖥️ Entorno de Desarrollo
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🔧 Control de Versiones y API Testing
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-5A29E4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📩 Email & Marketing Tools
+
 ![Brevo (Sendinblue)](https://img.shields.io/badge/Brevo%20(Sendinblue)-0096FF?style=for-the-badge&logo=maildotru&logoColor=white)
+
+---
+
+### 🎨 Diseño & Prototipado
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
