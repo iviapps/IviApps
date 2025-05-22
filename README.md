@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./Banner.png)
 
 <h1 align="center">¡Hola! 👋 Soy Iveth B.</h1>
 
