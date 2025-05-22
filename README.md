@@ -68,7 +68,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ---
 
 
-### 🚀 Despliegue & Hosting
+#### 🚀 Despliegue & Hosting
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -77,7 +77,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ---
 
 
-### 🖥️ Entorno de Desarrollo
+#### 🖥️ Entorno de Desarrollo
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -86,7 +86,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-### 🔧 Control de Versiones y API Testing
+#### 🔧 Control de Versiones y API Testing
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -94,19 +94,19 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-### 📩 Email & Marketing Tools
+#### 📩 Email & Marketing Tools
 
 ![Brevo (Sendinblue)](https://img.shields.io/badge/Brevo%20(Sendinblue)-0096FF?style=for-the-badge&logo=maildotru&logoColor=white)
 
 ---
 
-### 🎨 Diseño & Prototipado
+#### 🎨 Diseño & Prototipado
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🌐 Conecta conmigo
+#### 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivethb-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iveth-b-7aa866307)
 
