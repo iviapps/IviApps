@@ -30,7 +30,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-#### 🧠 Backend
+#### 🧠 Backend 
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -39,6 +39,11 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
+#### 👉🏽 CMS 
+
+![WordPress](https://img.shields.io/badge/WordPress%20CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
++ ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
++ ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
 ---
 
 #### 📱 Android
@@ -54,6 +59,15 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![AppSheet](https://img.shields.io/badge/AppSheet-0769AD?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+
+### 🚀 Despliegue & Hosting
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
