@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-<h1 align="center"> 👋 Hello there! I'm Iveth. </h1>
+<h1 align="center"> 👋 Hello there! I'm Ivi. </h1>
 
 <p align="center">
   <strong> Full-Stack Developer | Always learning, always building. </strong><br />
