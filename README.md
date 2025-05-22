@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Desarrolladora Full-Stack Web & Android</strong><br />
-  React.js · Laravel · Kotlin · Firebase · WordPress · MongoDB · AppSheet
+
 </p>
 
 ---
