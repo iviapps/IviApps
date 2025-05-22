@@ -1,21 +1,21 @@
 ![Banner](./Banner.png)
 
-<h1 align="center">¡Hola! 👋 Soy Iveth B.</h1>
+<h1 align="center"> 👋 Hello there! I'm Iveth. </h1>
 
 <p align="center">
-  <strong>Desarrolladora Full-Stack | Always learning, always building. </strong><br />
+  <strong> Full-Stack Developer | Always learning, always building. </strong><br />
 
 </p>
 
 ---
 
-### 👩‍💻 Sobre mí
+### 👩‍💻 About me
 
-Soy desarrolladora con experiencia en la creación de aplicaciones web y móviles modernas, con enfoque en interfaces intuitivas, backend escalable y soluciones ágiles usando herramientas no-code. Me apasiona automatizar procesos y crear experiencias visuales conectadas a datos en tiempo real.
+I am a developer with experience in creating modern web and mobile applications, with a focus on intuitive interfaces, scalable backend and agile solutions using no-code tools. I am passionate about automating processes and creating visual experiences connected to real-time data.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 #### 💻 Frontend
 
@@ -59,7 +59,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-#### ⚙️ Automatización / No-Code
+#### ⚙️ Automation / No-Code
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -68,7 +68,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ---
 
 
-#### 🚀 Despliegue & Hosting
+#### 🚀 Deployment & Hosting
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -77,7 +77,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ---
 
 
-#### 🖥️ Entorno de Desarrollo
+#### 🖥️ Development Environment
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -86,7 +86,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-#### 🔧 Control de Versiones y API Testing
+#### 🔧 Version Control and API Testing
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -100,16 +100,16 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 
 ---
 
-#### 🎨 Diseño & Prototipado
+#### 🎨 Design & Prototyping
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-#### 🌐 Conecta conmigo
+#### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivethb-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iveth-b-7aa866307)
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y creando nuevas soluciones!* ✨
+✨ *Thank you for visiting my profile, I am always learning and creating new solutions!* ✨
