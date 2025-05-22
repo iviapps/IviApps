@@ -25,7 +25,6 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
@@ -42,8 +41,14 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 #### 👉🏽 CMS 
 
 ![WordPress](https://img.shields.io/badge/WordPress%20CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-+ ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-+ ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
++ ![Yoast SEO](https://img.shields.io/badge/Yoast%20SEO-7A0BC0?style=for-the-badge&logo=yoast&logoColor=white)
++ ![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-2096F3?style=for-the-badge&logo=wordpress&logoColor=white)
++ ![WP Rocket](https://img.shields.io/badge/WP%20Rocket-F15A24?style=for-the-badge&logo=wordpress&logoColor=white)
++ ![WP Mail SMTP](https://img.shields.io/badge/WP%20Mail%20SMTP-FF7139?style=for-the-badge&logo=gmail&logoColor=white)
++ ![CPT UI](https://img.shields.io/badge/Custom%20Post%20Type%20UI-1E8CBE?style=for-the-badge&logo=wordpress&logoColor=white)
++ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
++ ![WP Dev Plugin](https://img.shields.io/badge/WordPress%20Plugin%20Dev-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ---
 
 #### 📱 Android
@@ -77,6 +82,7 @@ Soy desarrolladora con experiencia en la creación de aplicaciones web y móvile
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-5A29E4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Brevo (Sendinblue)](https://img.shields.io/badge/Brevo%20(Sendinblue)-0096FF?style=for-the-badge&logo=maildotru&logoColor=white)
 
 ---
 
