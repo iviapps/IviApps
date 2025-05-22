@@ -3,7 +3,7 @@
 <h1 align="center">¡Hola! 👋 Soy Iveth B.</h1>
 
 <p align="center">
-  <strong>Desarrolladora Full-Stack Web & Android</strong><br />
+  <strong>Desarrolladora Full-Stack, | Always learning, always building. </strong><br />
 
 </p>
 
