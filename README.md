@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 Hello there! I'm Ivi. </h1>
 
 <p align="center">
-  <strong>Web Application Developer | .NET & React | Microservices Architecture</strong><br />
+  <strong>Full-Stack Developer | .NET Developer | React & Node.js</strong><br />
 </p>
 
 ---
