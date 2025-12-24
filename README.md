@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About me
 
-Web Application Developer specialized in building scalable web applications with .NET and React ecosystems. Experienced in microservices architecture, event-driven systems, and modern development patterns. Passionate about clean code, distributed systems, and creating seamless user experiences.
+Full-Stack Developer specialized in building scalable web applications with .NET and React ecosystems. Experienced in microservices architecture, event-driven systems, and modern development patterns. Passionate about clean code, distributed systems, and creating seamless user experiences.
 
 ---
 
