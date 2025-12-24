@@ -3,14 +3,14 @@
 <h1 align="center"> 👋 Hello there! I'm Ivi. </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | .NET & React | Microservices Architecture</strong><br />
+  <strong>Web Application Developer | .NET & React | Microservices Architecture</strong><br />
 </p>
 
 ---
 
 ### 👩‍💻 About me
 
-Full-Stack Developer specialized in building scalable web applications with .NET and React ecosystems. Experienced in microservices architecture, event-driven systems, and modern development patterns. Passionate about clean code, distributed systems, and creating seamless user experiences.
+Web Application Developer specialized in building scalable web applications with .NET and React ecosystems. Experienced in microservices architecture, event-driven systems, and modern development patterns. Passionate about clean code, distributed systems, and creating seamless user experiences.
 
 ---
 
